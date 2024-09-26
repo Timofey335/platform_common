@@ -3,7 +3,7 @@ package kafka
 import (
 	"context"
 
-	"github.com/Timofey335/auth/internal/client/kafka/consumer"
+	"github.com/Timofey335/platform_common/pkg/kafka/consumer"
 )
 
 type Consumer interface {
